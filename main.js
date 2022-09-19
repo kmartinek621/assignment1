@@ -1,0 +1,9 @@
+let myNumber = 5;
+let myOtherNumber = 5;
+let myTotal = (myNumber * myOtherNumber);
+let myName = "Kevin";
+let myCombo = "10";
+let myRemainder = (myNumber % 5);
+let i = 2;
+let int = 4;
+let myBoolean = false;
